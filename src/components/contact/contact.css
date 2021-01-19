@@ -1,0 +1,21 @@
+.box{
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.male{
+    border: 2px solid blue;
+    color: blue;
+    background-color: lightcyan;
+}
+.female{
+    border: 2px solid magenta;
+    color: magenta;
+    background-color: rgb(231, 221, 231);
+}
+.contacted{
+    color: grey;
+    text-decoration: line-through;
+}
