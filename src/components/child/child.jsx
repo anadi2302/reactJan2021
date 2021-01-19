@@ -7,7 +7,7 @@ class Child extends Component {
     render() { 
         return (  
             <Fragment>
-                <button onClick={this.btnClick}>Send Value</button>
+                <button onClick={this.btnClick}>Send Value To Parent</button>
             </Fragment>
         );
     }
